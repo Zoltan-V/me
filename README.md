@@ -30,7 +30,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 Je travail actuellement sur plusieurs projets, YLight, Neptuna RP et Light Pixels Studio<br>- 📚 Je suis actuellement étudiant dans une classe de Terminal Général<br>- ⚡ Dans mon temps libre je fais de la musique et je réfléchis à comment améliorer mes projets</p>
+<p align="left">- 🔭 Je travail actuellement sur plusieurs projets, YLight, Neptuna RP et Light Pixels Studio<br>- 📚 Je suis actuellement étudiant dans une classe de Terminal Général<br>- ⚡ Dans mon temps libre je fais de la musique et je réfléchis à comment améliorer mes projets</p>
 
 ###
 
